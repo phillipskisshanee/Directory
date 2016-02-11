@@ -47,6 +47,11 @@ a {
   color: #000;
   text-decoration: none;
 }
+
+p {
+  color: #660000;
+}
+
 h1 {
   font-family: 'Covered By Your Grace', cursive;
   color: #660000;
