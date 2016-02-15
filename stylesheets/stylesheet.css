@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-  max-width: 900px;
+  max-width: 1000px;
   min-height: 800px;
   border-left: 1px solid #ccc;
   border-right: 1px solid #ccc;
@@ -22,9 +22,6 @@ body {
   background-color: #e7fef6;
 }
 
-main-content {
-  text-align: left;
-}
 
 section {
     margin: 3em 0;
@@ -52,6 +49,10 @@ a {
   text-decoration: none;
 }
 
+hr {
+  color:#660000 ;
+}
+
 p {
   color: #660000;
 }
@@ -61,7 +62,8 @@ h1 {
   color: #660000;
 }
 h2 {
-  color: #999;
+  font-family: 'Covered By Your Grace', cursive;  
+  color: #660000;
   font-size: 1.3em;
   text-align: center;
 }
