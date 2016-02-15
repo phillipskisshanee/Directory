@@ -125,20 +125,3 @@ table tr th {
 .modal img {
   width: 100%;
 }
-
-.container img {
-  width:100%;
-  height: auto;
-}
-
-button{
-  position:absolute;
-}
-
-.next {
-  right: 5px;
-}
-
-.prev {
-  left: 5px;
-}
