@@ -21,6 +21,13 @@ body {
   text-align: center;
   background-color: #e7fef6;
 }
+th, td {
+  border-bottom: 1px
+  solid #ddd;
+}
+tr:nth-child(even)
+{background-color: #f2f2f2}
+
 
 th {
   text-align: left;
